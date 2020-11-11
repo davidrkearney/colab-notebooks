@@ -3,20 +3,30 @@
 <h1 align="center"> Python Notebooks</h1>
 
 ## Pandas
-Title | Blog Post/IPython Notebook | Youtube Video
+Title | Blog Post/IPython Notebook 
 --- | --- | ---
 
-Example 1 | [Example](https://github.com/Example.ipynb "Example") | [Example Youtube Video](https://www.youtube.com/Example)
+Example 1 | [Example](https://github.com/Example.ipynb "Example")
+
+
+
+## SciKit Learn
+Title | Blog Post/IPython Notebook 
+--- | --- | ---
+
+Xgboost | [Example](https://github.com/davidrkearney/colab-notebooks/blob/main/Xgboost_Regression_and_Classification_learn.ipynb
+ "Xgboost")
+
 
 ## PySpark (Python)
-Title | IPython Notebook | Youtube Video
+Title | IPython Notebook 
 --- | --- | ---
-Example 1 | [Example](https://github.com/Example.ipynb "Example") | [Example Youtube Video](https://www.youtube.com/Example)
+Example 1 | [Example](https://github.com/Example.ipynb "Example") 
 
 ## Statistics
-Title | IPython Notebook | Youtube Video
+Title | IPython Notebook 
 --- | --- | ---
-Example 1 | [Example](https://github.com/Example.ipynb "Example") | [Example Youtube Video](https://www.youtube.com/Example)
+Example 1 | [Example](https://github.com/Example.ipynb "Example")
 
 
 ## Contributors
