@@ -4,7 +4,7 @@
 
 ## Pandas
 Title | Blog Post/IPython Notebook 
---- | --- | ---
+--- | --- 
 
 Example 1 | [Example](https://github.com/Example.ipynb "Example")
 
@@ -12,7 +12,7 @@ Example 1 | [Example](https://github.com/Example.ipynb "Example")
 
 ## SciKit Learn
 Title | Blog Post/IPython Notebook 
---- | --- | ---
+--- | --- 
 
 Xgboost | [Example](https://github.com/davidrkearney/colab-notebooks/blob/main/Xgboost_Regression_and_Classification_learn.ipynb
  "Xgboost")
@@ -20,12 +20,12 @@ Xgboost | [Example](https://github.com/davidrkearney/colab-notebooks/blob/main/X
 
 ## PySpark (Python)
 Title | IPython Notebook 
---- | --- | ---
+--- | --- 
 Example 1 | [Example](https://github.com/Example.ipynb "Example") 
 
 ## Statistics
 Title | IPython Notebook 
---- | --- | ---
+--- | --- 
 Example 1 | [Example](https://github.com/Example.ipynb "Example")
 
 
