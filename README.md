@@ -14,8 +14,7 @@ Example 1 | [Example](https://github.com/Example.ipynb "Example")
 Title | Blog Post/IPython Notebook 
 --- | --- 
 
-Xgboost | [Example](https://github.com/davidrkearney/colab-notebooks/blob/main/Xgboost_Regression_and_Classification_learn.ipynb
- "Xgboost")
+Xgboost | [Example](https://github.com/davidrkearney/colab-notebooks/blob/main/Xgboost_Regression_and_Classification_learn.ipynb)
 
 
 ## PySpark (Python)
